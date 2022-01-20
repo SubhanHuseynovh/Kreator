@@ -14,7 +14,7 @@ echo -e $MESAJ
 echo "TeleThon Yükleniyor"
 pip install telethon
 echo "Repo klonlanıyor..."
-git clone https://github.com/AsenaDev/Installer
+git clone https://github.com/SubhanHuseynovh/Kreator
 clear
 echo -e $MESAJ
 cd Installer
